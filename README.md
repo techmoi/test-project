@@ -1,6 +1,6 @@
 # Laravel Product Management Project
 
-This is a Laravel-based product management system developed as part of a test assignment for an interview.
+This is a Laravel-based product management system 
 
 ---
 
