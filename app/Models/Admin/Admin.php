@@ -7,7 +7,6 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Database\Eloquent\SoftDeletes;
-use App\Libraries\FileSystem;
 use App\Models\Admin\Setting;
 
 class Admin extends AppModel
